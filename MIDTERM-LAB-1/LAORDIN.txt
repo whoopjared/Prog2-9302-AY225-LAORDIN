@@ -1,0 +1,12 @@
+Data Cleaning and Validation Report
+Scenario:
+You are assigned to audit dataset quality.
+
+Requirements:
+
+Detect:
+Missing values
+Negative sales
+Invalid dates
+Duplicate records
+Display data quality report
